@@ -21,6 +21,9 @@ h1 {
 .words {
   padding-top: 20px;
   color: #4361ee;
+  font-family: "Patrick Hand", cursive;
+  font-size: 30px;
+  cursor: pointer;
 }
 i {
   padding-top: 20px;
@@ -31,5 +34,11 @@ i {
 .message2 {
   color: red;
   font-family: "Patrick Hand", cursive;
-  font-size: 20px;
+  font-size: 50px;
+}
+
+.message1 {
+  color: greenyellow;
+  font-family: "Patrick Hand", cursive;
+  font-size: 50px;
 }
